@@ -1,4 +1,3 @@
-
 module.exports = {
   /* Your site config here */
   plugins: [
@@ -48,7 +47,7 @@ module.exports = {
       options:{
         fonts: [
           `limelight`,
-          `source sans pro\:300,400,400i,700`
+          `Muli\:300,400,400i,700`
         ],
         display: 'swap',
       },

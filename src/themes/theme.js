@@ -1,6 +1,6 @@
 export default {
     fonts: {
-        main: 'limelight, source sans pro',
+        main: 'Muli, sans-serif',
         code: "Roboto Mono, monospace",
     },
 
