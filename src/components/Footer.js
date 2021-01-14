@@ -5,7 +5,9 @@ import {
     FooterWrapper, 
     FooterSocialWrapper, 
     FooterSocialIcons,
+    P, 
 } from "../elements"
+
 
 export const Footer = () => {
 
@@ -39,7 +41,7 @@ export const Footer = () => {
                     <img src= {data.instagram.publicURL} alt= "instagram logo" />
                 </a>
             </FooterSocialIcons>
-            <p> © 2021 company. All rights reserved.</p>
+            <P size="xSmall" color="light1"> © 2021 company. All rights reserved.</P>
         </FooterSocialWrapper>
     </FooterWrapper>
 }
