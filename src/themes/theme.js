@@ -3,7 +3,6 @@ export default {
         main: 'Muli, sans-serif',
         code: "Roboto Mono, monospace",
     },
-
     colors: {
         main1: "hs1(207,70%,59%)",
         main2: "hs1(207,70%,94%)",

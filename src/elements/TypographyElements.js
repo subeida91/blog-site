@@ -12,7 +12,6 @@ export const P = styled.p`
             return "0.875rem"
             default:
                 return "1.125rem"
-
         }
     }};
     
